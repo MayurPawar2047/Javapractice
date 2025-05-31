@@ -7,7 +7,7 @@ public class InsertArray {
 	public static void main(String[] args) {
 		
 		    int[] arr = {8, 5, 2, 11, 7};
-	        int position = 2; // Insert at 3rd position (index 2)
+	        int position = 2; 
 	        int newElement = 4;
 
 	        int[] newArr = new int[arr.length + 1];
